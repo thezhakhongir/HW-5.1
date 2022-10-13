@@ -1,0 +1,19 @@
+.wrapper {
+  text-align: center;
+  border: 1px solid;
+  border-radius: 10px;
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.comment-first {
+  margin-bottom: 20px;
+  width: 150px;
+}
+
+.comment-second {
+  width: 150px;
+  border-radius: inherit;
+}
